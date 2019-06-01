@@ -2,25 +2,25 @@
 ## CTS course preparation
 
 ### Creational Patterns:
- - Simple Factory
- - Factory Method
- - Builder
- - Singleton
- - Prototype
+ - [x] Simple Factory
+ - [x] Factory Method
+ - [x] Builder
+ - [x] Singleton
+ - [x] Prototype
 
 ### Structural:
- - Adapter
- - Composite
- - Decorator
- - Façade
- - Flyweight
- - Proxy
+ - [x] Adapter
+ - [x] Composite
+ - [x] Decorator
+ - [x] Façade
+ - [x] Flyweight
+ - [x] Proxy
 
 ### Behavioural ("Comportamental" for people not familiar with the English language):
- - Strategy
- - Observer
- - Chain of Responsibility
- - Command
- - Memento
- - State
- - Template
+ - [x] Strategy
+ - [x] Observer
+ - [ ] ~~Chain of Responsibility~~ no longer required
+ - [x] Command
+ - [ ] ~~Memento~~ no longer required
+ - [ ] State
+ - [ ] Template
