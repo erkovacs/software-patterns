@@ -22,5 +22,5 @@
  - [ ] ~~Chain of Responsibility~~ no longer required
  - [x] Command
  - [ ] ~~Memento~~ no longer required
- - [ ] State
+ - [x] State
  - [x] Template
