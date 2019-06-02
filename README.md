@@ -23,4 +23,4 @@
  - [x] Command
  - [ ] ~~Memento~~ no longer required
  - [ ] State
- - [ ] Template
+ - [x] Template
