@@ -28,13 +28,6 @@
  ### Testing (JUnit 4)
  #### Define a Suite and a Category:
  ```java
- package ro.ekovacs.cts.junit.tests;
-
-import org.junit.experimental.categories.Categories;
-import org.junit.experimental.categories.Categories.IncludeCategory;
-import org.junit.runner.RunWith;
-import org.junit.runners.Suite.SuiteClasses;
-
 @IncludeCategory(Include.class)
 @RunWith(Categories.class)
 @SuiteClasses({ TestCalculateTotal.class, TestCalculateTotalWithDiscount.class })
