@@ -43,9 +43,9 @@ public class SomeTests {}
  
  #### Then in tests include them like this:
  ```java
- @Category(Include.class)
-	@Test
-	public void testCrossCheck() throws MissingProductsException {
-	 // Test...
-	}
+@Category(Include.class)
+@Test
+public void testCrossCheck() throws MissingProductsException {
+    // Test...
+}
  ```
